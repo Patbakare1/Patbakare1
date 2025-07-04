@@ -28,6 +28,6 @@ On this GitHub profile, you'll find:
 I’m always open to collaboration, feedback, and learning opportunities.  
 Feel free to explore my work and let’s grow together through data!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/bakare-patience)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bakare-patience)
 
 [Email Me](mailto:Bakarepatience@yahoo.com)
